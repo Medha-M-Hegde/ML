@@ -1,0 +1,48 @@
+Feedback for Hegde, Medha_Manjunath:
+
+Question 1.1: 2/3 
+Check the one-liner (this is not how you should write your code) 
+
+Question 1.2: 1/1 
+Well done. 
+
+Question 1.3: 3/3 
+Well done. 
+
+Question 1.4: 3.50/5 
+For the one-liner ; The cross-validation splits are not stratified. 
+
+Question 1.5: 2/2 
+Well done. 
+
+Question 1.6: 2/2 
+Well done. 
+
+Question 2.1: 2/2 
+Well done. 
+
+Question 2.2: 2/3 
+Cross validation on X_train 
+
+Question 2.3: 3/3 
+Well done. 
+
+Question 2.4: 0.67/2 
+The correct answers are B, C, and D. See the model solution. 
+
+Question 3.1: 0.50/2 
+Wrong range for n_estimators (> 1500) ; Scaler should be None 
+
+Question 3.2: 2/3 
+Well done. 
+
+Question 3.3: 2.50/3 
+The correct answer should be closer to 0.012. I don't see how you arrived at this value. ; Slightly different threshold 
+
+Question 4.1: 2/3 
+Predict instead of predict_proba ; Scaler should be none 
+
+Question 4.2: 1.50/3 
+Same observations as Q4.1 + answer doesn't explain model's bias state 
+
+Total: 29.67/40 
